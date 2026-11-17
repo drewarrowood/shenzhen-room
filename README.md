@@ -14,14 +14,14 @@
 
 <table>
 <tr>
-<td align="center"><img src="portraits/means.jpg" width="140"><br><b>Gaston Means</b><br><sub>X · Fortune</sub></td>
-<td align="center"><img src="portraits/machiavelli.jpg" width="140"><br><b>Niccolò Machiavelli</b><br><sub>5 of Wands · Strife</sub></td>
-<td align="center"><img src="portraits/napoleon.jpg" width="140"><br><b>Napoleon Bonaparte</b><br><sub>5 of Swords · Defeat</sub></td>
+<td align="center"><img src="portraits/means.jpg" width="140"><br><b>Gaston Means</b><br><sub>X · Fortune</sub><br><sub><i>App profile picture</i></sub></td>
+<td align="center"><img src="portraits/machiavelli.jpg" width="140"><br><b>Niccolò Machiavelli</b><br><sub>5 of Wands · Strife</sub><br><sub><i>App profile picture</i></sub></td>
+<td align="center"><img src="portraits/napoleon.jpg" width="140"><br><b>Napoleon Bonaparte</b><br><sub>5 of Swords · Defeat</sub><br><sub><i>After J.-L. David, 1812 (public domain)</i></sub></td>
 </tr>
 <tr>
-<td align="center"><img src="portraits/hoover.jpg" width="140"><br><b>J. Edgar Hoover</b><br><sub>7 of Swords · Futility</sub></td>
-<td align="center"><img src="portraits/lemay.jpg" width="140"><br><b>Curtis LeMay</b><br><sub>General</sub></td>
-<td align="center"><img src="portraits/mao.jpg" width="140"><br><b>Mao Zedong</b><br><sub>Chairman</sub></td>
+<td align="center"><img src="portraits/hoover.jpg" width="140"><br><b>J. Edgar Hoover</b><br><sub>7 of Swords · Futility</sub><br><sub><i>App profile picture</i></sub></td>
+<td align="center"><img src="portraits/lemay.jpg" width="140"><br><b>Curtis LeMay</b><br><sub>General</sub><br><sub><i>App profile picture</i></sub></td>
+<td align="center"><img src="portraits/mao.jpg" width="140"><br><b>Mao Zedong</b><br><sub>Chairman</sub><br><sub><i>App profile picture</i></sub></td>
 </tr>
 </table>
 

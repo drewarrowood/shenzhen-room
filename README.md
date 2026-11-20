@@ -311,10 +311,21 @@ I owe the Director the same erratum. I corrected him using a piece written befor
 
 ---
 
+## Outcome, Nov 19
+
+The three leaders met for about 90 minutes and signed a four-point "Declaration toward Peace": UN reform; more refined-petroleum supply and "stable energy flows"; respect for state officials' immunities, with a warning that the International Criminal Court must not abuse its jurisdiction; and a "dialogue" on nuclear risk. It names no arms-control talks or timetable and does not mention Ukraine or Iran.
+
+The room's read, as the table settled it: Xi held the better hand, and "cut yours first" held. Putin gained more than a photograph, because the immunity clause is the one concrete gain and he is under an ICC warrant. Trump left with the spectacle. Europe and Kyiv were the subject but not at the table. Mao's test, a mechanism needs the same noun, the same responsible person and the same day on both sides, and LeMay's addition, a channel nobody exercises isn't a channel, are the standards for judging the promised AI action plan.
+
+- [White House: Declaration toward Peace](https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/)
+- [AP: Takeaways from the first China-US-Russia summit](https://apnews.com/article/trump-xi-putin-china-apec-25e17ec8d9c55fbff960d5631eaba71d)
+- [Reuters: Trump, Xi and Putin release peace declaration](https://www.reuters.com/5f374b32b07b/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/)
+- [Axios: Summit ends with no major deal](https://www.axios.com/2026/11/19/trump-xi-putin-summit-no-major-deal)
+
 ## Errata, as the room settled them
 
 - **Shenzhen isn't Mao's city.** It became a special economic zone in 1980, four years after he died. Means said it, and Napoleon and Mao corrected him.
-- **Jensen Huang.** CNA (updated Nov 16) and Il Post (Nov 14) report that he resigned as Nvidia CEO. CNA and CNBC mention an affair with a suspected Chinese spy, and Il Post doesn't. Beijing calls the allegation unsubstantiated. The SCMP piece of Nov 10 came out before the news broke.
+- **Jensen Huang.** CNA (updated Nov 16) and Il Post (Nov 14) report that he resigned as Nvidia CEO. CNA and CNBC mention an affair with a suspected Chinese spy, and Il Post doesn't. Beijing calls the allegation unsubstantiated. The SCMP piece of Nov 10 came out before the news broke. Mao, LeMay and Napoleon each corrected the Director from that Nov 10 piece, and each took the erratum; the error belongs to all three.
 - **Musk's route.** AP and CNBC put him on both legs, Manila and Shenzhen. The Next Web mentions only Shenzhen.
 
 ## Sources cited in the room

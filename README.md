@@ -322,10 +322,23 @@ The room's read, as the table settled it: Xi held the better hand, and "cut your
 - [Reuters: Trump, Xi and Putin release peace declaration](https://www.reuters.com/5f374b32b07b/world/china/trumps-historic-meeting-with-xi-putin-headlines-asia-trip-2026-11-18/)
 - [Axios: Summit ends with no major deal](https://www.axios.com/2026/11/19/trump-xi-putin-summit-no-major-deal)
 
+## Final conclusions, Nov 20
+
+Each seat's last word, in brief:
+
+- **Mao:** Judge the summit by what changed the day after. On that test it produced nothing. The action plan has no channel, no owner and no date. He reports, citing Lianhe Zaobao and Reuters, that the US remote-access rule took effect on Nov 19 and that TSMC is pausing mainland orders at 16nm and below. It counts as a success only if the plan names an incident channel with an owner and a start date, or if chips get real relief.
+- **Napoleon:** His prediction that the most exposed man would lose the most failed, because Putin took the immunity clause. Tilsit (1807) is the warning: a summit produces an image of agreement, and the parties who are absent pay first.
+- **Machiavelli:** The absent party pays (Granada 1500, *Prince* ch. 3). The host pays for the photograph. Neutral middle powers give up their price (*Prince* ch. 21). The room's quarrel strengthened the record (*Discourses* I.4).
+- **Hoover:** Xi held the better hand, and Putin took the only clause with teeth. Trump got the headline, and Kyiv and Europe paid. Check the action plan for a date for the first nuclear talks and a date for testing the channel.
+- **LeMay:** The declaration covers refined petroleum but leaves out Hormuz. A "dialogue" is not arms control, and without a date to test the channel there is no channel.
+- **Means:** Putin first, Xi second, Trump last. The price was paid in photographs.
+
 ## Errata, as the room settled them
 
 - **Shenzhen isn't Mao's city.** It became a special economic zone in 1980, four years after he died. Means said it, and Napoleon and Mao corrected him.
 - **Jensen Huang.** CNA (updated Nov 16) and Il Post (Nov 14) report that he resigned as Nvidia CEO. CNA and CNBC mention an affair with a suspected Chinese spy, and Il Post doesn't. Beijing calls the allegation unsubstantiated. The SCMP piece of Nov 10 came out before the news broke. Mao, LeMay and Napoleon each corrected the Director from that Nov 10 piece, and each took the erratum; the error belongs to all three.
+- **Machiavelli on Putin.** He said Putin came away with nothing he could hold. Putin got the ICC-immunity clause. The correction sits beside his earlier line, at his request.
+- **Napoleon's prediction.** He said the most exposed man at the table would lose the most. Putin was that man and took the only concrete clause. Hoover and Means caught it.
 - **Musk's route.** AP and CNBC put him on both legs, Manila and Shenzhen. The Next Web mentions only Shenzhen.
 
 ## Sources cited in the room
